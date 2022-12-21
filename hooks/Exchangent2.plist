@@ -1,0 +1,15 @@
+{
+  Filter = {
+    Bundles = (
+		"com.apple.mobilemail",
+		"com.apple.Preferences",
+    );
+	Executables = (
+		"MobileMail",
+		"maild",
+		"calaccessd",
+		"exchangesyncd",
+		"accountsd",
+    );
+  };
+}
